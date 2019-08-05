@@ -1,0 +1,11 @@
+D:\ASP.NET Projects\T11\UserRoleEF\bin\Debug\netcoreapp2.2\UserRoleEF.deps.json
+D:\ASP.NET Projects\T11\UserRoleEF\bin\Debug\netcoreapp2.2\UserRoleEF.runtimeconfig.json
+D:\ASP.NET Projects\T11\UserRoleEF\bin\Debug\netcoreapp2.2\UserRoleEF.runtimeconfig.dev.json
+D:\ASP.NET Projects\T11\UserRoleEF\bin\Debug\netcoreapp2.2\UserRoleEF.dll
+D:\ASP.NET Projects\T11\UserRoleEF\bin\Debug\netcoreapp2.2\UserRoleEF.pdb
+D:\ASP.NET Projects\T11\UserRoleEF\obj\Debug\netcoreapp2.2\UserRoleEF.csprojAssemblyReference.cache
+D:\ASP.NET Projects\T11\UserRoleEF\obj\Debug\netcoreapp2.2\UserRoleEF.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\T11\UserRoleEF\obj\Debug\netcoreapp2.2\UserRoleEF.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\T11\UserRoleEF\obj\Debug\netcoreapp2.2\UserRoleEF.AssemblyInfo.cs
+D:\ASP.NET Projects\T11\UserRoleEF\obj\Debug\netcoreapp2.2\UserRoleEF.dll
+D:\ASP.NET Projects\T11\UserRoleEF\obj\Debug\netcoreapp2.2\UserRoleEF.pdb
