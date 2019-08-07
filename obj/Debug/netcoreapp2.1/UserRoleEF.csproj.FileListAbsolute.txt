@@ -1,0 +1,11 @@
+F:\工作\T10\bin\Debug\netcoreapp2.1\UserRoleEF.deps.json
+F:\工作\T10\bin\Debug\netcoreapp2.1\UserRoleEF.runtimeconfig.json
+F:\工作\T10\bin\Debug\netcoreapp2.1\UserRoleEF.runtimeconfig.dev.json
+F:\工作\T10\bin\Debug\netcoreapp2.1\UserRoleEF.dll
+F:\工作\T10\bin\Debug\netcoreapp2.1\UserRoleEF.pdb
+F:\工作\T10\obj\Debug\netcoreapp2.1\UserRoleEF.csprojAssemblyReference.cache
+F:\工作\T10\obj\Debug\netcoreapp2.1\UserRoleEF.csproj.CoreCompileInputs.cache
+F:\工作\T10\obj\Debug\netcoreapp2.1\UserRoleEF.AssemblyInfoInputs.cache
+F:\工作\T10\obj\Debug\netcoreapp2.1\UserRoleEF.AssemblyInfo.cs
+F:\工作\T10\obj\Debug\netcoreapp2.1\UserRoleEF.dll
+F:\工作\T10\obj\Debug\netcoreapp2.1\UserRoleEF.pdb
