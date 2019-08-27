@@ -10,11 +10,12 @@ namespace UserRoleEF
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseMySql("Server=192.168.3.14;database=test;uid=root;pwd=123456");
+            optionsBuilder.UseMySql("Server=127.0.0.1;database=test;uid=root;pwd=123456");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
+            base.OnModelCreating(modelBuilder);            
+
             var typeUser = modelBuilder.Entity<User>();
             typeUser.ToTable<User>("user");
 
